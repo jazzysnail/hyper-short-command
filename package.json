@@ -1,0 +1,24 @@
+{
+  "name": "hyper-short-command",
+  "version": "1.0.0",
+  "description": "Extension for Hyper that define a long command as a short command.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jazzysnail/hyper-short-command.git"
+  },
+  "keywords": [
+    "hyper",
+    "hyper.app",
+    "hyper-plugin"
+  ],
+  "author": "jazzysnail",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jazzysnail/hyper-short-command/issues"
+  },
+  "homepage": "https://github.com/jazzysnail/hyper-short-command#readme"
+}
